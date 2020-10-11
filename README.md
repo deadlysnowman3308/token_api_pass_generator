@@ -1,4 +1,4 @@
-# token_api_paas_generator
+# token_api_pass_generator
 
 
 ### This python based tool help you to generate random token, API key &amp; password with multi function features. Also you can use this tool as buffer overflow code generator.
